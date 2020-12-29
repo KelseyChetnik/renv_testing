@@ -2,6 +2,7 @@
 
 # some library
 library(tidyverse)
+library(GeneNet)
 
 # a plot
 data.frame(x=rnorm(10), y=rnorm(10)) %>%
